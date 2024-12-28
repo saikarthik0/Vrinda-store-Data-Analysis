@@ -1,7 +1,7 @@
-# Vrinda-Store-Data-Analysis for the year 2022 (Interactive Dashboard using MS Excel)
+# Vrinda-Store-Data-Analysis for the year 2024 (Interactive Dashboard using MS Excel)
 
 ## Project Objective
-The Vrinda Store wants to create an annual salesreport for 2022. So that, the owner of Vrinda stores can understand their customers and grow more sales in 2023.
+The Vrinda Store wants to create an annual salesreport for 2024. So that, the owner of Vrinda stores can understand their customers and grow more sales in 2025.
 
 ## Dataset used
 - <a href="https://github.com/saikarthik0/Vrinda-store-Data-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx">Vrinda Store Data</a>
@@ -10,7 +10,7 @@ The Vrinda Store wants to create an annual salesreport for 2022. So that, the ow
 - Compare the sales and orders using single chart.
 - which month got the highest sales and orders?
 - who purchased more -Men or Women?
-- what are different order status in 2022?
+- what are different order status in 2024?
 - List top 10 states contributing yo the sales?
 - Relation between age and gender based on number of orders.
 - Which channel is contributing maximum sales?
