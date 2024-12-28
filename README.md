@@ -24,7 +24,7 @@ The Vrinda Store wants to create an annual salesreport for 2024. So that, the ow
 - Combined all pivot tables into a single dashboard and added slicers to enhance interactivity and dynamic data filtering.
 
 ## Dashboard
-![Alt text of the image](https://github.com/saikarthik0/Vrinda-store-Data-Analysis/blob/main/Dashboard%20vrinda%20store%20(1).jpeg)
+![Alt text of the image](https://github.com/saikarthik0/Vrinda-store-Data-Analysis/blob/main/Dashboard%20Vrinda%20Store.png)
 
 ## Project URL
 - <a href="https://1drv.ms/x/c/1236d9f1fe428751/EeuQ_zy2Z0JJsrmzhFLRb4kBAVbR8OvyJnqlymUfspGRYg?e=pl2drF"> Vrinda Stores Annual Report</a>
